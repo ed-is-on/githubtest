@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_depar_githubtest.paul_table_user" name="x_depar_githubtest.paul_table_user">ae858366db1313003912dde7489619cb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-17 20:36:56</sys_created_on>
+        <sys_id>ba858366db1313003912dde7489619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ae858366db1313003912dde7489619cb</sys_name>
+        <sys_package display_value="GithubTest" source="x_depar_githubtest">815e32eadb9bdf00664cfd0d0f961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="GithubTest">815e32eadb9bdf00664cfd0d0f961974</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ba858366db1313003912dde7489619ce</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-17 20:36:56</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

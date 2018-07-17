@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_documentation element="" label="gittest" language="en" table="x_depar_githubtest_gittest">
+    <sys_documentation element="" label="paul table" language="en" table="x_depar_githubtest_paul_table">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element/>
             <help/>
             <hint/>
-            <label>gittest</label>
+            <label>paul table</label>
             <language>en</language>
-            <name>x_depar_githubtest_gittest</name>
-            <plural>gittests</plural>
+            <name>x_depar_githubtest_paul_table</name>
+            <plural>paul tables</plural>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>Steve.Vong</sys_created_by>
-            <sys_created_on>2018-07-17 20:13:37</sys_created_on>
-            <sys_id>30308f22db9b5740622d7e560f961901</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-07-17 20:36:57</sys_created_on>
+            <sys_id>3285c32adb1313003912dde7489619c4</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>gittest</sys_name>
+            <sys_name>paul table</sys_name>
             <sys_package display_value="GithubTest" source="x_depar_githubtest">815e32eadb9bdf00664cfd0d0f961974</sys_package>
             <sys_policy/>
             <sys_scope display_value="GithubTest">815e32eadb9bdf00664cfd0d0f961974</sys_scope>
-            <sys_update_name>sys_documentation_x_depar_githubtest_gittest__en</sys_update_name>
-            <sys_updated_by>Steve.Vong</sys_updated_by>
-            <sys_updated_on>2018-07-17 20:13:37</sys_updated_on>
+            <sys_update_name>sys_documentation_x_depar_githubtest_paul_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-07-17 20:36:57</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
